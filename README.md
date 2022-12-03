@@ -1,5 +1,7 @@
 # The Met landing page
 
+The link for the [preview](https://mihailkostov.github.io/The-Met-Landing/)
+
 The project is made by using:
  - HTML
  - SCSS
